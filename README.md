@@ -1,5 +1,5 @@
 # coderishita1202
-
+![logo](https://github.com/coderishita1202/coderishita1202/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Ishita Das</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
